@@ -1,0 +1,2 @@
+1. github extentions setup.
+2. entityframework migration
