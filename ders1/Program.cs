@@ -26,6 +26,7 @@ namespace ders1
                 Console.WriteLine($" i: {i}");
                 
             }
+              Console.WriteLine("hello world6");
           
         }
     }
