@@ -10,8 +10,9 @@ namespace ders1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
-            Console.WriteLine("hello world2");
+            Console.WriteLine("hello worlda");
+            Console.WriteLine("hello worldb");
+            Console.WriteLine("hello worldc");
         }
     }
 }
