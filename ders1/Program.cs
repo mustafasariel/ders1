@@ -19,6 +19,12 @@ namespace ders1
             Console.WriteLine("hello world3");
             Console.WriteLine("hello world4");
             Console.WriteLine("hello world5");
+
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i.ToString());
+            }
           
         }
     }
